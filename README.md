@@ -24,10 +24,10 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+### Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
@@ -46,7 +46,7 @@
 - What have you learned/improved?
   I improved on how to properly use grid and flexbox mainly
 
-### Built With
+## Built With
 
 - HTML
 - CSS
